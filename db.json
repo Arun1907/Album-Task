@@ -1,0 +1,103 @@
+{
+    "albums": [
+      {
+        "id": 1,
+        "title": "EPIC: The Troy Saga (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "year": 2021,
+        "type":"Single",
+        "songCount":"15",
+        "duration":"5.2.2",
+        "size":"14mb",
+        "releasedOn":"19/07/2025",
+        "genre": "Rock",
+        "cover": "https://via.placeholder.com/150",
+        "description": "This is a rock album."
+      },
+      {
+        "id": 2,
+        "title": "EPIC: The Troy Saga (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "year": 2021,
+        "type":"EP",
+        "songCount":"15",
+        "duration":"5.2.2",
+        "size":"14mb",
+        "releasedOn":"19/07/2025",
+        "genre": "Rock",
+        "cover": "https://via.placeholder.com/150",
+        "description": "This is a rock album."
+      },
+      {
+        "id": 3,
+        "title": "EPIC: The Troy Saga (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "year": 2021,
+        "type":"Album",
+        "songCount":"15",
+        "duration":"5.2.2",
+        "size":"14mb",
+        "releasedOn":"19/07/2025",
+        "genre": "Rock",
+        "cover": "https://via.placeholder.com/150",
+        "description": "This is a rock album."
+      },
+      {
+        "id": 4,
+        "title": "EPIC: The Troy Saga (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "year": 2021,
+        "type":"Single",
+        "songCount":"15",
+        "duration":"5.2.2",
+        "size":"14mb",
+        "releasedOn":"19/07/2025",
+        "genre": "Rock",
+        "cover": "https://via.placeholder.com/150",
+        "description": "This is a rock album."
+      },
+      {
+        "id": 5,
+        "title": "EPIC: The Troy Saga (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "year": 2021,
+        "type":"EP",
+        "songCount":"15",
+        "duration":"5.2.2",
+        "size":"14mb",
+        "releasedOn":"19/07/2025",
+        "genre": "Rock",
+        "cover": "https://via.placeholder.com/150",
+        "description": "This is a rock album."
+      },
+      {
+        "id": 6,
+        "title": "EPIC: The Troy Saga (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "year": 2021,
+        "type":"Album",
+        "songCount":"15",
+        "duration":"5.2.2",
+        "size":"14mb",
+        "releasedOn":"19/07/2025",
+        "genre": "Rock",
+        "cover": "https://via.placeholder.com/150",
+        "description": "This is a rock album."
+      },
+      {
+        "id": 7,
+        "title": "EPIC: The Troy Saga (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "year": 2021,
+        "type":"Single",
+        "songCount":"15",
+        "duration":"5.2.2",
+        "size":"14mb",
+        "releasedOn":"19/07/2025",
+        "genre": "Rock",
+        "cover": "https://via.placeholder.com/150",
+        "description": "This is a rock album."
+      }
+    ]
+  }
+  
